@@ -288,6 +288,7 @@ footer .end_footer {
     margin: 10px auto;
     padding-top: 20px;
     border-top: 1px solid var(--color_blue-1);
+    color: var(--color_white);
 }
 ::-webkit-scrollbar {
     width: 10px;
