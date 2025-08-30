@@ -1,0 +1,1 @@
+@font-face{font-family: 'FondFamily';src: url('../font/Cairo-VariableFont_slnt,wght.ttf')format('truetype'),url('../font/Cairo-Regular.ttf')format('truetype'),url('../font/Cairo-SemiBold.ttf')format('truetype');}body,button,input{font-family:'FondFamily','Cairo',Sans-Serif;}
