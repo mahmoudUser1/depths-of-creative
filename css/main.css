@@ -284,7 +284,7 @@ footer .container .section_footer:nth-child(2) .nav_in_footer ul li:hover a:befo
 }
 footer .end_footer {
     text-align: center;
-    font-size: 1em;
+    font-size: 16px;
     margin: 10px auto;
     padding-top: 20px;
     border-top: 1px solid var(--color_blue-1);
